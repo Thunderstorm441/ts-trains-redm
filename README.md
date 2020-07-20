@@ -1,6 +1,6 @@
 # ts-trains-redm
 Adds the singleplayer trains &amp; tram to RedM.
-Originally for [OldWesternRP](https://oldwesternrp.com) & made standalone for any RedM server to use.
+Originally for [OldWesternRP](https://oldwesternrp.com) & made standalone for any [RedM](https://redm.gg) server to use.
 
 # Install
 
